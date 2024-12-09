@@ -659,6 +659,7 @@
             overflow-x: scroll;
             margin-inline: 0;
             margin-block: 4rem 3rem;
+
         }
 
 
@@ -717,6 +718,8 @@
         #error {
             text-align: left;
         }
+
+
 
     }
 
